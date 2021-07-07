@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "vant": "^2.2.8",
-    "vue": "2.6.10"
+    "vue": "2.6.10",
+    "vue-router": "3.5.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "3.6.0",
